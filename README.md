@@ -3,9 +3,10 @@
 
 
 ## 🚀 About Me
-I'm a tech enthusiast who recently completed my BSc in IT from Mumbai University.
+I recently graduated with a BSc in IT from Mumbai University, and as a tech enthusiast, I'm currently diving into Android development.
 
-I’m currently learning Android development.
+
+
 
 
 
