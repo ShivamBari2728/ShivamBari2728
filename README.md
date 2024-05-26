@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I recently graduated with a BSc in IT from Mumbai University, and as a tech enthusiast, I'm currently diving into Android development.
+I recently graduated with a BSc in IT from Mumbai University, and a tech enthusiast, I'm currently diving into Android development.
 
 
 
