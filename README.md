@@ -15,6 +15,7 @@ I recently graduated with a BSc in IT from Mumbai University. As a tech enthusia
 ## 💻 Projects
 - [**Emergency SOS System (Android Application)**](https://github.com/ShivamBari2728/Emergency-SOS-Application)
 - [**Globe Chat App (Android/iOS Application)**](https://github.com/ShivamBari2728/Globe-Chat-App)
+- [**Flutter Projects**](https://github.com/ShivamBari2728/Flutter-Projects)
 
 ## 💬 How to reach me...
 
