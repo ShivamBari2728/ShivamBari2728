@@ -1,7 +1,7 @@
 # Hi, I'm Shivam Bari! 👋
 
 ## 🚀 About Me
-I recently graduated with a BSc in IT from Mumbai University. As a tech enthusiast, I'm currently diving into Android and Ios development.
+I recently graduated with a BSc in IT from Mumbai University. As a tech enthusiast, I'm currently diving into Android and iOS development.
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -13,9 +13,8 @@ I recently graduated with a BSc in IT from Mumbai University. As a tech enthusia
 ![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge)
 
 ## 💻 Projects
-- [**Emergency SOS System (Android Application)**]([https://your-project-link.com](https://github.com/ShivamBari2728/Emergency-SOS-Application))
-- [**Globe Chat App (Android/Ios Application)**]([https://github.com/ShivamBari2728/Globe-Chat-App))
-
+- [**Emergency SOS System (Android Application)**](https://github.com/ShivamBari2728/Emergency-SOS-Application)
+- [**Globe Chat App (Android/iOS Application)**](https://github.com/ShivamBari2728/Globe-Chat-App)
 
 ## 💬 How to reach me...
 
