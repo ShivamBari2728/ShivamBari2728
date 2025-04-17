@@ -1,7 +1,7 @@
 # Hi, I'm Shivam Bari! 👋
 
 ## 🚀 About Me
-I recently graduated with a BSc in IT from Mumbai University. As a tech enthusiast, I'm currently diving into Android and iOS development.
+A a tech enthusiast. I'm currently diving into Android and iOS development.
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
